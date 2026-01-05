@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedbackpacks:refill_upgrade|true", "sophisticatedbackpacks:auto_blasting_upgrade|true"]
+
